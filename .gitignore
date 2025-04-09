@@ -1,0 +1,8 @@
+*.log
+
+stack-overflow
+stack-underflow
+heap-overflow
+heap-underflow
+global-overflow
+global-underflow
